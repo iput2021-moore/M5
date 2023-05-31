@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "button_test",
+			"path": "../../button/button_test"
+		},
+		{
+			"name": "M5gyro_test",
+			"path": "../../M5gyro_test"
+		},
+		{
+			"name": "bluetooth_test",
+			"path": ".."
+		},
+		{
+			"name": "bluetooth_test_socket",
+			"path": "../../bluetooth_test_socket"
+		}
+	],
+	"settings": {}
+}

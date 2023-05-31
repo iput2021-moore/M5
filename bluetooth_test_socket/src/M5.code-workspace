@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "bluetooth_test",
+			"path": "../../bluetooth_test"
+		}
+	],
+	"settings": {}
+}
