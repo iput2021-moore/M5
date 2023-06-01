@@ -4,17 +4,6 @@
 #pip install pyserial
 #Not serial
 import serial
-
-ser=serial.Serial(
-    port='COM4',
-    baudrate =9600,
-    timeout=None,
-    parity=serial.PARITY_NONE
-)
-
-ser.close()
-ser.open()
-
-while True:
-    data =  ser.read_all()
-    print(data)
+ser = serial.Serial('/dev/ttyUSB0', 9600)  # デバイス名とボーレートを設定しポートをオープン 
+ser.write("hello")      # 出力
+ser.close()             # ポートのクローズ
