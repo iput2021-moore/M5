@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../bluetooth_ser_test"
+		},
+		{
+			"name": "M5gyro_test",
+			"path": "../../M5gyro_test"
+		},
+		{
+			"name": "serial_6ziku_test",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

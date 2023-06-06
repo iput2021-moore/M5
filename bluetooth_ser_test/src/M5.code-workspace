@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "bluetooth_test_socket",
+			"path": "../../bluetooth_test_socket"
+		},
+		{
+			"name": "bluetooth_ser_test",
+			"path": ".."
+		},
+		{
+			"name": "bluetooth_test",
+			"path": "../../bluetooth_test"
+		}
+	],
+	"settings": {}
+}
